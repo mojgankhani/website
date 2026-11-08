@@ -1,0 +1,163 @@
+body {
+  font-size: 50px;
+  background-color: #d8e4ec;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.fa-youtube {
+
+  color: red;
+  /* YouTube red color */
+  padding: 20px;
+}
+
+.fa-envelope {
+
+  color: #007bff;
+  /* Blue color for envelope icon */
+  padding: 20px;
+}
+
+.fa-facebook {
+
+  color: #1877f2;
+  /* Facebook blue color */
+  padding: 20px;
+}
+
+.fa-instagram {
+
+  color: #c10808;
+  /* Instagram pink color */
+  padding: 20px;
+}
+
+.fa-code {
+  color: #000;
+  /* Black color for code icon */
+  padding: 20px;
+}
+
+.fa-bluesky {
+  color: #f72f2f;
+  /* Bluesky blue color */
+  padding: 20px;
+}
+
+.fa-telegram {
+  color: #1da1f2;
+  /* Twitter blue color */
+  padding: 20px;
+}
+
+.fa-bluesky {
+  color: #0c85d0;
+  /* Black color for bluesky icon */
+  padding: 20px;
+}
+
+button {
+  background-color: #d8e4ec;
+  /* No background color */ 
+  /* background-color: #9ad7f0; */
+  /* Green background */
+  /* color: rgb(7, 7, 7); */
+
+  /* padding: 5px 5px; */
+  /* Padding */
+  /* border:none; */
+  /* border: 1px solid #0a0909; */
+  /* Blue border on hover */
+  text-align: center;
+  /* Centered text */
+  text-decoration: none;
+  /* No underline */
+  /* display: inline-block; Inline-block element */
+  font-size: 50px;
+  /* Font size */
+  /* margin: 2px 2px; */
+  /* Margin */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+  border-radius: 10px;
+  /* Rounded corners */
+}
+
+.fa-apple {
+  color: #000;
+  /* Black color for app icon */
+  padding: 20px;
+}
+
+.fa-youtube:hover {
+  color: #c00c0c;
+  /* Darker red on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-envelope:hover {
+  color: #0056b3;
+  /* Darker blue on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-facebook:hover {
+  color: #0d47a1;
+  /* Darker blue on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-instagram:hover {
+  color: #e76161;
+  /* Darker pink on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-code:hover {
+  color: #555;
+  /* Darker black on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-paper-plane:hover {
+  color: #0c85d0;
+  /* Darker blue on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-telegram:hover {
+  color: #0c85d0;
+  /* Darker blue on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-bluesky:hover {
+  color: #2a30ce;
+  /* Darker blue on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+.fa-apple:hover {
+  color: #555;
+  /* Darker black on hover */
+  cursor: pointer;
+  /* Pointer cursor on hover */
+}
+
+button:hover {
+  background-color: #d5f2f5;
+  /* Darker green on hover */
+  /* border: 1px solid #007bff; */
+  /* Blue border on hover */
+}
